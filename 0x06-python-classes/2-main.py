@@ -10,7 +10,7 @@ print(type(my_square_2))
 print(my_square_2.__dict__)
 
 try:
-        print(my_square_1.size)
+    print(my_square_1.size)
 except Exception as e:
     print(e)
 
